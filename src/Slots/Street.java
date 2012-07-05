@@ -1,5 +1,9 @@
+package Slots;
+
+import Main.Player;
+import Main.Oras;
 //CLASA TEREN
-class Street extends Slot{
+public class Street extends Slot{
 	
         protected Player proprietar;
 	private int pret;

@@ -1,4 +1,7 @@
-class Player {
+package Main;
+import Slots.Slot;
+
+public class Player {
  private int cash,culoare;
  private String name;
  private Slot[] proprietati = new Slot[20];

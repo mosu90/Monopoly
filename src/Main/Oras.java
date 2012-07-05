@@ -1,5 +1,10 @@
+package Main;
+
+
+import Slots.Street;
+
 //CLASA ORAS
-class Oras{
+public class Oras{
 	private String nume;
 	private Street[] terenuri=new Street[2];
 	private static int i=0;

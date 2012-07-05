@@ -1,7 +1,9 @@
-
+package Slots;
+import Main.Client;
+import Main.Player;
 import java.util.Scanner;
 //asta cred ca e in plus
-class SlotOptions{
+public class SlotOptions{
 	private int nr_slot=0;
 	private Player currentPlayer=null;
 	private Client client=null;

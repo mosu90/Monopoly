@@ -1,4 +1,8 @@
-class Company extends Slot{
+package Slots;
+
+import Main.Player;
+
+public class Company extends Slot{
         protected Player proprietar;
         protected boolean ipotecata;
         protected int pret;

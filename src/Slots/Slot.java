@@ -1,7 +1,9 @@
+package Slots;
+
 /*
  * CLASA SLOT PARINTE PENTRU TEREN, COMPANII, CHANCE
  */
 
-abstract class Slot{
+public abstract class Slot{
 	protected String nume;
 }

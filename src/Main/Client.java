@@ -1,6 +1,11 @@
+package Main;
 
+import Slots.Street;
+import Slots.SlotOptions;
+import Slots.Slot;
 import java.util.Random;
-class Client{
+
+public class Client{
 	private Player[] players =new Player[6];
 	private static int p_idx=0;
 	public static Slot[] board;
